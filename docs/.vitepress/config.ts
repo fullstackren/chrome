@@ -75,10 +75,10 @@ export default defineConfig({
       label: '目录',
     },
     comment: {
-      repo: 'fullstackren/fullstackren.github.io',
-      repoId: 'R_kgDOLUQ83Q',
+      repo: 'fullstackren/chrome',
+      repoId: 'R_kgDOI9RvQg',
       category: 'Announcements',
-      categoryId: 'DIC_kwDOLUQ83c4Clk1a',
+      categoryId: 'DIC_kwDOI9RvQs4CmC1F',
     },
     docFooter: {
       prev: '上一篇',
